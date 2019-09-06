@@ -1,0 +1,6 @@
+Tesseract 是`个 OCR 麋 目前由 Google 赞助恤岫 也皇一家以 OCR 相机暑膏学习嘛闻名于世囚公
+司)n Tesseract 皇目前公认最优秀 圈开源 OCR 系统 , 除了极高囚 , Tesseract 也亘有很高囚
+灵活性. 它可Li1`蔺l`甘ü||练i,口、另ü出任1可字体, 也可以L口ã础田可 Unioode 鞘口
+
+   
+
